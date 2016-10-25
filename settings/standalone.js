@@ -96,7 +96,7 @@ module.exports = function(manifest, installPath) {
         },
         user: {
             id: -1,
-            name: "asuna",
+            name: "johndoe",
             fullname: "Yuuki Asuna",
             email: "yuukiasuna@example.org",
             pubkey: null
