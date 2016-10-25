@@ -103,9 +103,9 @@ module.exports = function(manifest, installPath) {
         },
         project: {
             id: 2,
-            name: "Yui",
+            name: "projectname",
             contents: null,
-            descr: "DiscordBot-based-on-discord.js"
+            descr: "desc"
         },
         analytics: {
             segmentio: {
